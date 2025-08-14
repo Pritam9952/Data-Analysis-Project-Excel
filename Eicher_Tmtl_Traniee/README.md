@@ -1,6 +1,6 @@
 # Eicher TMTL – Defect Analysis Dashboard (Excel, Power Query)
 
-![Eicher TMTL Project](./images/thumbanil_eicher.jpg)
+![Eicher TMTL Project](./images/thumbanil_eicher.png)
 
 **Role:** Production Intern – Eicher Tractors & Motors Limited (TMTL)  
 **Duration:** May 2024 – June 2024 | **Location:** Bhopal, India  
@@ -8,6 +8,24 @@
 A **data-driven defect and scratch analysis project** for tractor components (e.g., Model 380) using **Microsoft Excel** and **Power Query** to identify recurring defects, analyze root causes, and recommend preventive actions—ultimately improving manufacturing quality control.
 
 ---
+
+## 🚀 Key Deliverables
+
+### 📊 Interactive Dashboards
+![Dashboard Screenshot](./images/dashboard_preview.jpg) *← Add actual screenshot*
+- Pareto analysis of top defects
+- Scratch location heatmaps
+- Real-time defect tracking
+
+### 🔍 Root Cause Analysis
+| Defect Type | Frequency | Primary Cause |
+|-------------|-----------|---------------|
+| Battery Box | 32% | Handling during transport |
+| Fuel Tank | 28% | Packaging design |
+| Accelerator | 18% | Assembly line process |
+
+---
+
 
 ## 🚀 Project Highlights
 
