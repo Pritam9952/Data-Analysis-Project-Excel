@@ -1,43 +1,41 @@
-# Eicher TMTL Trainee Project
+# Eicher TMTL – Defect Analysis Dashboard (Excel, Power Query)
 
-**Production Intern – Eicher Tractors & Motors Limited (TMTL)**  
-**Duration:** May 2024 – June 2024  
-**Location:** Bhopal, India
+![Eicher TMTL Project](images/thumbnail.jpg)
 
-This project showcases a comprehensive **defect and scratch analysis** for several tractor components (e.g., Model 380), using Excel, Power Query, and data visualization techniques to identify root causes and recommend quality improvements.
+**Role:** Production Intern – Eicher Tractors & Motors Limited (TMTL)  
+**Duration:** May 2024 – June 2024 | **Location:** Bhopal, India  
 
----
-
-##  Project Highlights
-
-- **Data Preparation & Cleaning**  
-  Structured and cleaned raw quality inspection data to ensure accuracy and usability for analysis tasks.
-
-- **Defect Analysis Dashboard**  
-  - Built interactive dashboards in Excel.
-  - Highlighted top recurring defects (battery box fitment, accelerator rubber, fuel tank scratches, etc.).
-  - Visual maps (charts/tables) helped isolate high-frequency error categories.
-
-- **Root Cause Investigation**  
-  Examined potential causes behind defect occurrences, including:
-  - Mishandling during assembly or transport.
-  - Design or equipment-related shortcomings.
-  - Gaps in protective protocols or handling practices.
-
-- **Preventive Recommendations**  
-  Proposed and visualized in the dashboards:
-  - Protective coverings or insulated packaging.
-  - Modified kitting trolleys with rubber padding.
-  - Revised handling SOPs during assembly and logistics.
-
-- **Management Presentation**  
-  Delivered visual, actionable reports that drove process enhancements—improving QA efficiency and reducing rework risk.
+A **data-driven defect and scratch analysis project** for tractor components (e.g., Model 380) using **Microsoft Excel** and **Power Query** to identify recurring defects, analyze root causes, and recommend preventive actions—ultimately improving manufacturing quality control.
 
 ---
 
-##  Usage Instructions
+## 🚀 Project Highlights
 
-1. Clone the repo:
+- **Data Cleaning & Preparation** – Structured and standardized raw QA inspection data for reliable analysis.  
+- **Interactive Excel Dashboards** – Designed visual dashboards to highlight recurring issues like battery box fitment, accelerator rubber misalignment, and fuel tank scratches.  
+- **Root Cause Analysis** – Identified major contributors including mishandling during assembly, transport damage, and design/equipment flaws.  
+- **Preventive Recommendations** – Suggested insulated packaging, rubber-padded kitting trolleys, and revised assembly & logistics SOPs.  
+- **Management Reporting** – Delivered clear, actionable reports that improved QA efficiency and reduced rework incidents.
+
+---
+
+## 🛠 Skills & Tools
+- **Microsoft Excel** – Pivot Tables, Charts, Conditional Formatting  
+- **Power Query** – Data Cleaning & Transformation  
+- **Data Visualization** – Interactive reporting for defect tracking  
+- **Root Cause Analysis** – Manufacturing quality control  
+- **Process Improvement** – Preventive measures & SOP updates  
+
+---
+
+## 📂 Files
+- [📊 Final Defect Analysis Dashboard (Excel)](Final_Defect_Analysis_Project.xlsx)  
+- [📄 Project Report (PDF)](Defects%20and%20Scratch%20(1).pdf)  
+
+---
+
+## 📌 How to View
+1. Clone the repository:
    ```bash
    git clone https://github.com/Pritam9952/Data-Analysis-Project-Excel.git
    cd Data-Analysis-Project-Excel/Eicher_Tmtl_Traniee
