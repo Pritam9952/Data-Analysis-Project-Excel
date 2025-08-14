@@ -12,7 +12,8 @@ A **data-driven defect and scratch analysis project** for tractor components (e.
 ## 🚀 Key Deliverables
 
 ### 📊 Interactive Dashboards
-![Dashboard Screenshot](./images/dashboard_preview.jpg) *← Add actual screenshot*
+![Dashboard Screenshot](./images/Scratch_dashboard.png)
+![Dashboard Screenshot](./images/Defects_dashboard.png)
 - Pareto analysis of top defects
 - Scratch location heatmaps
 - Real-time defect tracking
