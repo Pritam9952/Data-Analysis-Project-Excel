@@ -1,6 +1,6 @@
 # Eicher TMTL – Defect Analysis Dashboard (Excel, Power Query)
 
-![Eicher TMTL Project](images/thumbnail.jpg)
+![Eicher TMTL Project](images/thumbanil_eicher.jpg)
 
 **Role:** Production Intern – Eicher Tractors & Motors Limited (TMTL)  
 **Duration:** May 2024 – June 2024 | **Location:** Bhopal, India  
