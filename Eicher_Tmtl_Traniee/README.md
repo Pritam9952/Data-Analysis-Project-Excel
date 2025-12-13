@@ -38,6 +38,12 @@ A **data-driven defect and scratch analysis project** for tractor components (e.
 
 ---
 
+## Problem Statement
+During industrial training at Eicher TMTL, the quality team required a
+centralized dashboard to analyze defect and scratch patterns in
+manufacturing data to support quality control decisions.
+
+---
 ## 🛠 Skills & Tools
 - **Microsoft Excel** – Pivot Tables, Charts, Conditional Formatting  
 - **Power Query** – Data Cleaning & Transformation  
